@@ -4,9 +4,9 @@ from email.mime.text import MIMEText
 
 host_office365 = 'smtp.office365.com'
 port_office365 = 587
-sender_email_id, sender_email_id_password = 'agopalaiah@quotient.com', 'Quojan@123'
-# multiple people 'agopalaiah@quotient.com, agopalaiah@quotient.com'
-receiver_email_id = 'agopalaiah@quotient.com'
+sender_email_id, sender_email_id_password = 'axy@ma.com', ''
+# multiple people 'agoph@qnt.com, aaaiah@qnt.com'
+receiver_email_id = 'bnz@qut.com'
 
 
 def send_mail(**kwargs):
